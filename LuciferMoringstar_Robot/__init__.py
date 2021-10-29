@@ -25,15 +25,15 @@ Bot Owner Only
 /logger  Get Logs
 /delete Delete File From Database
 
-[➡️Join Our All Movies ](https://t.me/SH_Telugu_All_Movies)
+[➡️Join Our All Movies ](https://t.me/PS_MOVIES1)
 
-@SH_Telugu_All_Movies
+@PS_MOVIES1
 """
 
 ABOUT = """
 ➥ Name :  Auto Filter With IMDB
     
-➥ Creator : [Sandesh](http://t.me/SHProSearchbot)
+➥ Creator : [PAZZU420](http://t.me/PS_MOVIES1)
 
 ➥ Language : Python3
 
