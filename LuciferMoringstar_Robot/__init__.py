@@ -39,5 +39,5 @@ ABOUT = """
 
 ➥ Library : Pyrogram Asyncio 1.13.0
 
-➥ Support Group : [Click Me](https://t.me/KAANNADANEWMOVIEREQUESTINGGROUP)
+➥ Support Group : [Click Me](https://t.me/allmovierequsetgroup)
 """
